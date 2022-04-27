@@ -54,5 +54,5 @@ df['Year Released: '] = year
 df['Movie Rating: '] = ratings1
 df['Images: '] = image
 df['links:  '] = link
-df.to_csv('Imdb top movies.csv')
+#df.to_csv('Imdb top movies.csv')
 
